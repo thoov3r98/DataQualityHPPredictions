@@ -1,1 +1,2 @@
-# DataQualityHPPredictions
+# DataQualityHPPredictions 
+Completed to partially satisfy requirements for Data Science 440 at Penn State University
